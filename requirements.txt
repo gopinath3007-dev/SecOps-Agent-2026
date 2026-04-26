@@ -1,9 +1,12 @@
 streamlit
 google-genai
-beautifulsoup4
-requests
 langchain
+langchain-text-splitters
 langchain-community
 langchain-huggingface
 faiss-cpu
 sentence-transformers
+beautifulsoup4
+requests
+torch
+torchvision

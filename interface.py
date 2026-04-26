@@ -5,7 +5,7 @@ from google import genai
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="SecOps Architect 2026", layout="wide")
